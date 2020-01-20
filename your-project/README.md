@@ -1,7 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Snap Card Game - Project]*
+# Snap (Rubamazzetto) - Card Game
 
 *[Dataptams2020 - January 2020]*
 
